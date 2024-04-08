@@ -1,0 +1,47 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center ;
+}
+
+.container {
+    width: 1000px;
+    margin: 250px auto 0 auto;
+
+}
+
+.search-box {
+    width: 500px;
+    padding-left: 250px ;
+    padding-right: 250px;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+#first {
+    background-color: #75c4c9;
+}
+
+#second {
+    background-color: #43c5c9;
+}
+
+#third {
+    background-color: #0dc8d0;
+}
